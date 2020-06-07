@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+*.nii
+*.nii.gz
+Task04_Hippocampus
+
